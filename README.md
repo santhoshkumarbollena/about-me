@@ -30,7 +30,7 @@ This repository contains a text file named as index.txt which contains introduct
   
 ## Contributor
 
-1.SanthoshKumarBollena
+1. SanthoshKumarBollena
 
 Hi I'm Santhosh,im persuing my masters degreee in Applied Computer Science.
 
