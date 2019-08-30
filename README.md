@@ -2,7 +2,7 @@
 
 ## About This Repository
 
-This repository contains a text file named as index.txt which contains introduction about me.
+This repository contains a text file named as index.txt which contains introduction about the Contributor.
 
 ## Links that can be publicly accessed
 
@@ -28,3 +28,10 @@ This repository contains a text file named as index.txt which contains introduct
   - [Spring-boot](https://www.tutorialspoint.com/spring_boot/index.htm)
   - [javascript](https://www.w3schools.com/js/)
   
+## Contributor
+
+1.SanthoshKumarBollena
+
+Hi I'm Santhosh,im persuing my masters degreee in Applied Computer Science.
+
+![]()
