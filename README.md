@@ -34,4 +34,4 @@ This repository contains a text file named as index.txt which contains introduct
 
 Hi I'm Santhosh,im persuing my masters degreee in Applied Computer Science.
 
-![Image](https://github.com/santhoshkumarbollena/about-me/blob/master/Image.JPEG)
+![Image](Image.JPEG)
