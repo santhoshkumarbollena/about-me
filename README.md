@@ -32,6 +32,6 @@ This repository contains a text file named as index.txt which contains introduct
 
 1. SanthoshKumarBollena
 
-Hi I'm Santhosh,im persuing my masters degreee in Applied Computer Science.
+Hi I'm Santhosh,im persuing my masters degree in Applied Computer Science.
 
 ![Image](Image.JPEG)
