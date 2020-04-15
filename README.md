@@ -6,7 +6,7 @@ This repository contains a text file named as index.txt which contains introduct
 
 ## Links that can be publicly accessed
 
-  - [Published Link](https://santhoshkumarbollena.github.io/about-me)
+  - [Published Link](https://santhoshkumarbollena.github.io/static-user-interaction-page/)
   - [Repository Link](https://github.com/santhoshkumarbollena/about-me)
 
 ## Tools that are useful throughout this course
